@@ -3,3 +3,6 @@ theme: minima
 header_pages:
   - about.md
   - academic-cv.md
+
+minima:
+  skin: dark
