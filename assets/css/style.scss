@@ -3,6 +3,15 @@
 
 @import "{{ site.theme }}";
 
+.blue {
+  color: #fff;
+  background: #000;
+}
+
 h2 {
-  color: #e91e63;
+  color: #ff5733;
+}
+
+#footer, .site-header {
+  background-color: #6b9da0;
 }
