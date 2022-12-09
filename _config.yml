@@ -3,6 +3,8 @@ theme: minima
 header_pages:
   - about.md
   - academic-cv.md
+  
+site.author: Jess Yao
 
 minima:
   social_links:
