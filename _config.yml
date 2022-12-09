@@ -6,5 +6,5 @@ header_pages:
 
 minima:
   social_links:
-    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
+    - { platform: github,  user_url: "https://github.com/jesslyao" }
     - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
