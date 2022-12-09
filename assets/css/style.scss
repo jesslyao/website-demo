@@ -2,4 +2,3 @@
 ---
 
 @import "{{ site.theme }}";
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}"
