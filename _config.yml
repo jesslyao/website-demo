@@ -4,7 +4,9 @@ header_pages:
   - about.md
   - academic-cv.md
   
-site.author.name: Jess Yao
+author:
+  name: John Smith
+  email: "john.smith@foobar.com"
 
 minima:
   social_links:
